@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "River Li"
-description              : "River Li Personal Homepage"
+description              : "阿菁的个人主页~"
 repository               : "RiverLi0421/riverli0421.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "River Li (李子菁)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hong Kong, Shenzhen"
-  location         : "Wuhan & Shenzhen"
+  bio              : "The Chinese University of Hong Kong, Shenzhen 香港中文大学（深圳）"
+  location         : "武汉 & 深圳"
   employer         :
   pubmed           : 
   # googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
