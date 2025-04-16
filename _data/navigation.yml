@@ -6,17 +6,17 @@ main:
   - title: "教育经历"
     url: "/#-news"
 
-  - title: "科研 | 实习 | 校内活动"
+  - title: "科研"
     url: "/#-publications"
 
-  - title: "周记"
+  - title: "实习"
     url: "/#-honors-and-awards"
 
-  - title: "旅游"
+  - title: "活动"
     url: "/#-educations"
 
-  - title: "悄悄话"
+  - title: "荣誉与奖项"
     url: "/#-invited-talks"
 
-  - title: "恋爱小天地"
+  - title: "学习笔记"
     url: "/#-internships"
