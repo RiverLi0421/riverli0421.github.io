@@ -3,19 +3,19 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "教育经历"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "科研 | 实习 | 校内活动"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "周记"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "旅游"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "悄悄话"
     url: "/#-invited-talks"
 
   - title: "恋爱小天地"
